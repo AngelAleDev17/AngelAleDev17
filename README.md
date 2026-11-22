@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:angelaledev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/angel-alegria-vidal-089762221"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Cunduac%C3%A1n%2C%20Tabasco-M%C3%A9xico-2E9EF7?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tabasco-M%C3%A9xico-2E9EF7?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
