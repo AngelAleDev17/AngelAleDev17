@@ -1,27 +1,26 @@
-<h1 align="center">Hola, soy Ángel Alegría Vidal 👋</h1>
+<h1 align="center">Hi, I'm Ángel Alegría Vidal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Estudiante+de+Ing.+en+Sistemas+Computacionales;Entusiasta+de+redes+y+ciberseguridad;Aprendiendo+Linux+y+Python+cada+d%C3%ADa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Computer+Systems+Engineering+Student;Networking+%26+Cybersecurity+Enthusiast;Learning+Linux+and+Python+every+day" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:angelaledev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ángel-alegría-vidal-089762221"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Cunduac%C3%A1n%2C%20Tabasco-M%C3%A9xico-2E9EF7?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-### 🧭 Sobre mí
+### 🧭 About me
 
-- 🎓 Estudiante de **Ing. en Sistemas Computacionales** en la UJAT · Promedio **9.73/10** (egreso 2027)
-- 🏅 Medalla *Homo Technologicus* por el mejor promedio de mi generación
-- 🛡️ Enfocado en **redes, ciberseguridad y defensa de redes**
-- 🐧 Me gusta el **Linux**, el hardware y entender cómo funcionan las cosas por dentro
-- 🌱 Actualmente profundizando en **Python** y automatización
+- 🎓 **Computer Systems Engineering**
+- 🛡️ Focused on **networking, cybersecurity and network defense**
+- 🐧 Passionate about **Linux**, hardware repair, and understanding how things work under the hood
+- 🌱 Currently going deeper into **Python** and **Rust**
 
 <details>
-<summary><b>🛠️ Stack y herramientas</b> (clic para desplegar)</summary>
+<summary><b>🛠️ Stack & tools</b> (click to expand)</summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,18 +30,18 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-**Idiomas:** Español (nativo) · Inglés (intermedio)
+**Languages:** Spanish (native) · English (intermediate)
 
 </details>
 
 <details>
-<summary><b>📜 Certificaciones Cisco</b> (clic para desplegar)</summary>
+<summary><b>📜 Cisco Certifications</b> (click to expand)</summary>
 <br>
 
-| Certificación | Fecha |
+| Certification | Date |
 |---|---|
 | CCNA: Switching, Routing and Wireless Essentials | Feb 2025 |
-| Introduction to Cybersecurity | Ago 2026 |
+| Introduction to Cybersecurity | Aug 2026 |
 | Networking Basics | Sep 2026 |
 | Networking Devices and Initial Configuration | Oct 2026 |
 | Endpoint Security | Nov 2026 |
@@ -50,29 +49,29 @@
 </details>
 
 <details>
-<summary><b>🚀 Logros y participación</b> (clic para desplegar)</summary>
+<summary><b>🚀 Achievements & involvement</b> (click to expand)</summary>
 <br>
 
-- 🧪 **Padrón Estatal de Nuevos Talentos** — Consejo de Ciencia y Tecnología del Estado de Tabasco (2024 – presente)
-- 💻 Participante en el **Concurso de Software**, Congreso Internacional de Innovación e IA (UJAT)
-- 🗣️ Ponente en el **Foro de Consulta del Plan de Desarrollo Divisional 2026-2030** (UJAT)
-- 🥉 3er lugar, **Concurso de Conocimientos COBATAB 2022-2023** (Física)
+- 🧪 **State Registry of New Talents** — Council of Science and Technology of Tabasco (2024 – present)
+- 💻 Participant, **Software Contest**, International Congress on Innovation and Artificial Intelligence (UJAT)
+- 🗣️ Speaker, **Consultation Forum for the 2026-2030 Divisional Development Plan** (UJAT)
+- 🥉 3rd place, **COBATAB Knowledge Contest 2022-2023** (Physics)
 
 </details>
 
 ---
 
-### 📊 Mis estadísticas en GitHub
+### 📊 My GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&locale=es" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<p align="center"><i>⭐ Siempre abierto a aprender, colaborar y romper cosas para entenderlas mejor.</i></p>
+<p align="center"><i>⭐ Always open to learning, collaborating, and breaking things to understand them better.</i></p>
