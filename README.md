@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ángel Alegría Vidal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Computer+Systems+Engineering+Student;Networking+%26+Cybersecurity+Enthusiast;Learning+Linux+and+Python+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Computer+Systems+Engineering+Student;Networking+%26+Cybersecurity+Enthusiast;Learning+Linux+and+Python+every+day;Math+%26+Physics+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,6 +17,7 @@
 - 🎓 **Computer Systems Engineering**
 - 🛡️ Focused on **networking, cybersecurity and network defense**
 - 🐧 Passionate about **Linux**, hardware repair, and understanding how things work under the hood
+- 🧮 Fascinated by **mathematics and physics** and how they underpin computing, cryptography and problem-solving
 - 🌱 Currently going deeper into **Python** and **Rust**
 
 ---
